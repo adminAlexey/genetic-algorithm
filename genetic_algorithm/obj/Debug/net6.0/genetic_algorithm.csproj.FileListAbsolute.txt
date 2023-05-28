@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\genetica\genetic_algorithm\bin\Debug\net6.0\genetic_algorithm.exe
+C:\Users\user\Desktop\genetica\genetic_algorithm\bin\Debug\net6.0\genetic_algorithm.deps.json
+C:\Users\user\Desktop\genetica\genetic_algorithm\bin\Debug\net6.0\genetic_algorithm.runtimeconfig.json
+C:\Users\user\Desktop\genetica\genetic_algorithm\bin\Debug\net6.0\genetic_algorithm.dll
+C:\Users\user\Desktop\genetica\genetic_algorithm\bin\Debug\net6.0\genetic_algorithm.pdb
+C:\Users\user\Desktop\genetica\genetic_algorithm\obj\Debug\net6.0\genetic_algorithm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\genetica\genetic_algorithm\obj\Debug\net6.0\genetic_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\genetica\genetic_algorithm\obj\Debug\net6.0\genetic_algorithm.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\genetica\genetic_algorithm\obj\Debug\net6.0\genetic_algorithm.AssemblyInfo.cs
+C:\Users\user\Desktop\genetica\genetic_algorithm\obj\Debug\net6.0\genetic_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\genetica\genetic_algorithm\obj\Debug\net6.0\genetic_algorithm.dll
+C:\Users\user\Desktop\genetica\genetic_algorithm\obj\Debug\net6.0\refint\genetic_algorithm.dll
+C:\Users\user\Desktop\genetica\genetic_algorithm\obj\Debug\net6.0\genetic_algorithm.pdb
+C:\Users\user\Desktop\genetica\genetic_algorithm\obj\Debug\net6.0\genetic_algorithm.genruntimeconfig.cache
+C:\Users\user\Desktop\genetica\genetic_algorithm\obj\Debug\net6.0\ref\genetic_algorithm.dll
